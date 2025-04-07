@@ -7,7 +7,7 @@
         <mxCell id="1JRD_nCijyaFo7MWF4ek-1" value="Bank&lt;br&gt;-name&lt;br&gt;-location&lt;br&gt;-code&lt;br&gt;&lt;br&gt;+Add Branch" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="10" y="30" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="1JRD_nCijyaFo7MWF4ek-2" value="branch&lt;br&gt;-branch code&amp;nbsp;&lt;br&gt;-city&lt;br&gt;&lt;br&gt;+Add account&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="1JRD_nCijyaFo7MWF4ek-2" value="branch&lt;br&gt;-branch code&amp;nbsp;&lt;br&gt;-city&lt;br&gt;&lt;br&gt;+Add account&lt;div&gt;-remove account&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="40" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1JRD_nCijyaFo7MWF4ek-4" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
@@ -61,7 +61,7 @@
         <mxCell id="1JRD_nCijyaFo7MWF4ek-18" value="LOAN&lt;br&gt;&lt;br&gt;-Loan Np&lt;br&gt;+Add&lt;br&gt;+EMI" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="70" y="290" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1JRD_nCijyaFo7MWF4ek-19" value="Savings Account&lt;br&gt;-min balance&lt;br&gt;-opening date&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+Add account&lt;/span&gt;&lt;/div&gt;+remove customer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="1JRD_nCijyaFo7MWF4ek-19" value="Savings Account&lt;br&gt;-min balance&lt;br&gt;-opening date&lt;br&gt;+Add&lt;br&gt;+remove customer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1JRD_nCijyaFo7MWF4ek-20" value="current account&lt;br&gt;-interest rate&lt;br&gt;+Add customer&lt;br&gt;+remove customer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
