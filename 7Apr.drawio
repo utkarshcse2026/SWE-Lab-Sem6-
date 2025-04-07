@@ -58,6 +58,15 @@
             <mxPoint x="580" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1JRD_nCijyaFo7MWF4ek-18" value="LOAN&lt;br&gt;&lt;br&gt;-Loan Np&lt;br&gt;+Add&lt;br&gt;+EMI" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1JRD_nCijyaFo7MWF4ek-19" value="Savings Account&lt;br&gt;-min balance&lt;br&gt;-opening date&lt;br&gt;+Add&lt;br&gt;+remove customer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1JRD_nCijyaFo7MWF4ek-20" value="current account&lt;br&gt;-interest rate&lt;br&gt;+Add customer&lt;br&gt;+remove customer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
