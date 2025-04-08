@@ -105,20 +105,23 @@
         <mxCell id="r2_Qseq6mZZ95r23J-gj-42" value="Students will experiment with the image like finding its data ( base 64 string)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="81.5" y="463.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-44" target="r2_Qseq6mZZ95r23J-gj-46">
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-44" target="r2_Qseq6mZZ95r23J-gj-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-44" value="decoding the string got from image will get them a link to the dumy account that says level 2 completed in the bio&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="81.5" y="603.5" width="145.5" height="91.5" as="geometry" />
+          <mxGeometry x="69.75" y="603.75" width="145.5" height="91.5" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-46" target="r2_Qseq6mZZ95r23J-gj-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-46" value="link redirects them to telgram of our comunity&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="81.5" y="743.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="92" y="901" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-48" value="student will see the text that have a smg&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="81.5" y="883.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="98" y="989" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-50" value="Now in that account Student find posts and comments for the tresure hunt event for next clue s and in commnets they find encrypted code" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45.620000000000005" y="775" width="193.75" height="78.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
