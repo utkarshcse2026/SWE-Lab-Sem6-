@@ -13,9 +13,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-1" target="r2_Qseq6mZZ95r23J-gj-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-1" value="Add hacker image on team page gdgc&amp;nbsp; and hover effect same and it have a link to donwl0ad image&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="43" y="121" width="199" height="93" as="geometry" />
         </mxCell>
@@ -84,6 +81,12 @@
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-23" value="ztelgram me image and zip hogi and rabbit hole k liye inke extension change krdege to conduse even more and zip me password hoga then usko image k andar vale password se kholege&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="617.25" y="625.25" width="312.75" height="367.75" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-26" target="r2_Qseq6mZZ95r23J-gj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-26" value="HINT ON MAIN WEBSITE OF GDGC&lt;br&gt;the past always haunts you !!!!!!!!&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="-139" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
