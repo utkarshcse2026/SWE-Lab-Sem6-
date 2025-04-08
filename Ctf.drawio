@@ -25,11 +25,65 @@
         <mxCell id="r2_Qseq6mZZ95r23J-gj-2" value="team page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="-9" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-4" target="r2_Qseq6mZZ95r23J-gj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-4" value="level 1 cmopleted&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="310.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-6" value="catch is ye image hidden hogi and studnets ko hint dege ki past always haunt you !! as hint now backtracking krke site ka past dekhna and udhar site k upar image dikheigi&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381.5" y="127.5" width="218.5" height="159.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307" y="397.2000427246094" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-8" value="image me se aapko exif ya meta data chupa hua hoga voh find krke base 64 string milegi&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="434" width="196.5" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-10" target="r2_Qseq6mZZ95r23J-gj-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="681" y="505" />
+              <mxPoint x="681" y="590" />
+              <mxPoint x="457" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-10" value="iske comments me jana h udhar links milegi" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="397.25" y="465.25" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457.25" y="765.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-12" target="r2_Qseq6mZZ95r23J-gj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-12" value="jo direct kregi telegram par&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="397.25" y="635.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="487.00006103515625" y="462.800048828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-15" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;usko decode krke kisi bhi online tool se ek link milega dummy account ka&lt;/span&gt;&lt;br&gt;says level 2 done" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="287" width="190" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-17" value="isme hum rabbit holes k liye fake links bhi dalege also to confuse even more yaha par commnets me do teen posts me different base 64 strings daal dege jo ki galat h aur decode krne par unko likha ayega YOU ARE eliminatwed&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="568" y="415" width="345" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-22" value="ab isme hum apni [artner comunity ka link dege jiska telgram me steganographed ek image padi rhegi uske andar password hoga f" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="733" width="346" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-23" target="r2_Qseq6mZZ95r23J-gj-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-23" value="ztelgram me image and zip hogi and rabbit hole k liye inke extension change krdege to conduse even more and zip me password hoga then usko image k andar vale password se kholege&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617.25" y="625.25" width="312.75" height="367.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
