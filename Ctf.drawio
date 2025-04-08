@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="wYuvBJUORnQzkDaBXomq">
-    <mxGraphModel dx="1509" dy="1020" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="701" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,17 +111,40 @@
         <mxCell id="r2_Qseq6mZZ95r23J-gj-44" value="decoding the string got from image will get them a link to the dumy account that says level 2 completed in the bio&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="69.75" y="603.75" width="145.5" height="91.5" as="geometry" />
         </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-46" target="r2_Qseq6mZZ95r23J-gj-48">
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-48" target="r2_Qseq6mZZ95r23J-gj-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-46" value="link redirects them to telgram of our comunity&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="92" y="901" width="120" height="60" as="geometry" />
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-48" value="student will see the text that have a welcome msg saying level 3 completes and congratulating students for reaching here also it would have&amp;nbsp;&lt;br&gt;hidden link by telegram texture feature leading them to a drive&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52" y="1082" width="181.5" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-48" value="student will see the text that have a smg&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="98" y="989" width="120" height="60" as="geometry" />
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-50" target="r2_Qseq6mZZ95r23J-gj-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-50" value="Now in that account Student find posts and comments for the tresure hunt event for next clue s and in commnets they find encrypted code" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="45.620000000000005" y="775" width="193.75" height="78.25" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-53" target="r2_Qseq6mZZ95r23J-gj-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="148.0588235294117" y="1078" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-53" value="Student will decode it using online tools and will get link to our telgram page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82.495" y="942.375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-56" target="r2_Qseq6mZZ95r23J-gj-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-56" value="drive link will show them two things a image and zip both corrupted&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82.75" y="1313.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-58" target="r2_Qseq6mZZ95r23J-gj-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-58" value="now contestant will fix them and then finds that zip is locked and one is image that says you are smart level 4 done&amp;nbsp; steganographed" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82.75" y="1453.5" width="167.25" height="89.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-60" value="student finds the datafrom image nad unlocks the zip that says hey are you player 456 , sorry i didnt recognised you&amp;nbsp;&lt;br&gt;&lt;br&gt;YOU WON !!" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="86.38" y="1610.75" width="193.63" height="121.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
