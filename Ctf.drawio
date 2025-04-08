@@ -1,43 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="wYuvBJUORnQzkDaBXomq">
-    <mxGraphModel dx="1026" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="1020" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-1" target="r2_Qseq6mZZ95r23J-gj-4">
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="463" y="168" />
-              <mxPoint x="463" y="262" />
-              <mxPoint x="143" y="262" />
-            </Array>
+            <mxPoint x="141.5" y="109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-1" value="Add hacker image on team page gdgc&amp;nbsp; and hover effect same and it have a link to donwl0ad image&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="43" y="121" width="199" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-2" target="r2_Qseq6mZZ95r23J-gj-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-2" value="GDGC Team Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-2" value="Students will be searching clues on website&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81.5" y="-9" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-4" target="r2_Qseq6mZZ95r23J-gj-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-4" value="level 1 cmopleted&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="82.5" y="310.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-6" value="catch is ye image hidden hogi and studnets ko hint dege ki past always haunt you !! as hint now backtracking krke site ka past dekhna and udhar site k upar image dikheigi&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="381.5" y="127.5" width="218.5" height="159.5" as="geometry" />
-        </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="307" y="397.2000427246094" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r2_Qseq6mZZ95r23J-gj-8" value="image me se aapko exif ya meta data chupa hua hoga voh find krke base 64 string milegi&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="434" width="196.5" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-10" target="r2_Qseq6mZZ95r23J-gj-12">
           <mxGeometry relative="1" as="geometry">
@@ -68,13 +41,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-15" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;usko decode krke kisi bhi online tool se ek link milega dummy account ka&lt;/span&gt;&lt;br&gt;says level 2 done" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="238" y="287" width="190" height="113" as="geometry" />
+          <mxGeometry x="452" y="329" width="190" height="113" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-17" value="isme hum rabbit holes k liye fake links bhi dalege also to confuse even more yaha par commnets me do teen posts me different base 64 strings daal dege jo ki galat h aur decode krne par unko likha ayega YOU ARE eliminatwed&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="568" y="415" width="345" height="192" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-22" value="ab isme hum apni [artner comunity ka link dege jiska telgram me steganographed ek image padi rhegi uske andar password hoga f" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="733" width="346" height="198" as="geometry" />
+          <mxGeometry x="402" y="752" width="198" height="182" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-23" target="r2_Qseq6mZZ95r23J-gj-22">
           <mxGeometry relative="1" as="geometry" />
@@ -83,10 +56,69 @@
           <mxGeometry x="617.25" y="625.25" width="312.75" height="367.75" as="geometry" />
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-26" target="r2_Qseq6mZZ95r23J-gj-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="137" y="-22" />
+              <mxPoint x="137" y="-22" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="r2_Qseq6mZZ95r23J-gj-26" value="HINT ON MAIN WEBSITE OF GDGC&lt;br&gt;the past always haunts you !!!!!!!!&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="77" y="-139" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-29" target="r2_Qseq6mZZ95r23J-gj-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-29" value="stundents will go with the hint to wayback machine&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="111" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-30" target="r2_Qseq6mZZ95r23J-gj-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-30" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;catch is ye image hidden hogi and studnets ko hint dege ki past always haunt you !! as hint now backtracking krke site ka past dekhna and udhar site k upar image dikheigi&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="66" width="198.5" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-32" target="r2_Qseq6mZZ95r23J-gj-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-32" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Add hacker image on team page gdgc&amp;nbsp; and hover effect same and it have a link to donwl0ad image&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="-106" width="166" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-35" value="image me se aapko exif ya meta data chupa hua hoga voh find krke base 64 string milegi&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="190.5" width="196.5" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-37" value="Students Path&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="107" y="-233" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-38" value="What we are doing and have to do&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-218" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-39" target="r2_Qseq6mZZ95r23J-gj-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-39" value="&#xa;now that past page shows an image of hacker i told u about on that link is also shown it will download another image that says level 1 Completed&amp;nbsp;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&#xa;&#xa;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="37.75" y="250" width="207.5" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-42" target="r2_Qseq6mZZ95r23J-gj-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-42" value="Students will experiment with the image like finding its data ( base 64 string)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81.5" y="463.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-44" target="r2_Qseq6mZZ95r23J-gj-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-44" value="decoding the string got from image will get them a link to the dumy account that says level 2 completed in the bio&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81.5" y="603.5" width="145.5" height="91.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2_Qseq6mZZ95r23J-gj-46" target="r2_Qseq6mZZ95r23J-gj-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-46" value="link redirects them to telgram of our comunity&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81.5" y="743.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_Qseq6mZZ95r23J-gj-48" value="student will see the text that have a smg&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81.5" y="883.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
